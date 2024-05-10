@@ -28,8 +28,3 @@ $(element).amLich({
  * [Month](http://ichuot.github.io/data/jquery-amlich-examples/month.html)
  * [Year](http://ichuot.github.io/data/jquery-amlich-examples/year.html)
  * [Text](http://ichuot.github.io/data/jquery-amlich-examples/text.html)
-
-## Liên hệ
- * Ngô Minh Tuấn
- * eMail: ichuot@gmail.com
- * Facebook: [fb.com/ichuot](https://fb.com/ichuot)
